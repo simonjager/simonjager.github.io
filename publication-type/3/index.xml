@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>https://simonjager.github.io/publication-type/3/</link>
+      <atom:link href="https://simonjager.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://simonjager.github.io/media/icon_hu59c4f70e19aa1743d258ab151cdb259b_52334_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://simonjager.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Marginal Jobs and Job Surplus: A Test of the Efficiency of Separations</title>
+      <link>https://simonjager.github.io/publication/jsz_2021/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jsz_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice at Work</title>
+      <link>https://simonjager.github.io/publication/jhs_2021_vat/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jhs_2021_vat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worker Beliefs About Outside Options and Rents</title>
+      <link>https://simonjager.github.io/publication/jrrs_2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jrrs_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Effects of Equal Sharing: Evidence from Inheritance Rules for Land</title>
+      <link>https://simonjager.github.io/publication/jbo_2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jbo_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paying Outsourced Labor: Direct Evidence from Linked Temp Agency-Worker-Client Data</title>
+      <link>https://simonjager.github.io/publication/jdps_2020/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jdps_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Substitutable are Workers? Evidence from Worker Deaths</title>
+      <link>https://simonjager.github.io/publication/jh_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://simonjager.github.io/publication/jh_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
